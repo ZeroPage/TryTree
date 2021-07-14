@@ -6,3 +6,6 @@ https://youtu.be/DDW-GZYvPB0
 
 ## 위키
 https://wiki.zeropage.org/wiki.php/TryTree
+
+## 외관
+![Tree image](images/20181224_030802.jpg)
